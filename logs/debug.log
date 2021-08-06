@@ -1,0 +1,112 @@
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/sample_project',
+  level: 'info',
+  timestamp: '2021-08-06T07:03:56.436Z',
+  label: 'todo-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-06T07:03:56.474Z',
+  label: 'todo-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-06T07:03:56.478Z',
+  label: 'todo-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-06T07:03:56.507Z',
+  label: 'todo-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/sample_project',
+  level: 'info',
+  timestamp: '2021-08-06T07:13:03.892Z',
+  label: 'todo-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-06T07:13:03.932Z',
+  label: 'todo-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-06T07:13:03.936Z',
+  label: 'todo-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-06T07:13:03.964Z',
+  label: 'todo-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/sample_project',
+  level: 'info',
+  timestamp: '2021-08-06T07:21:02.566Z',
+  label: 'todo-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-06T07:21:02.605Z',
+  label: 'todo-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-06T07:21:02.609Z',
+  label: 'todo-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-06T07:21:02.635Z',
+  label: 'todo-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/sample_project',
+  level: 'info',
+  timestamp: '2021-08-06T07:24:45.101Z',
+  label: 'todo-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-06T07:24:45.151Z',
+  label: 'todo-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-06T07:24:45.154Z',
+  label: 'todo-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-06T07:24:45.187Z',
+  label: 'todo-ts',
+  metadata: {}
+}

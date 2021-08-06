@@ -1,0 +1,150 @@
+{
+  message: 'GET: 404 3ms /',
+  level: 'info',
+  timestamp: '2021-08-06T07:14:17.029Z',
+  label: 'todo-ts',
+  metadata: {
+    meta: {
+      req: {
+        url: '/',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDEzLCJpYXQiOjE2Mjc2NDI0ODR9.opJA_l5GrRgs-pF8e6hkDFsYw69DbuJ6NXWB0HCMRF4',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.2',
+          accept: '*/*',
+          'postman-token': 'a745bac0-b0d4-462a-bdd9-cdc16b5ea519',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '82'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/',
+        query: {}
+      },
+      res: { statusCode: 404 },
+      responseTime: 3
+    }
+  }
+}
+{
+  message: 'GET: 200 40ms /todo',
+  level: 'info',
+  timestamp: '2021-08-06T07:14:26.261Z',
+  label: 'todo-ts',
+  metadata: {
+    meta: {
+      req: {
+        url: '/todo',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDEzLCJpYXQiOjE2Mjc2NDI0ODR9.opJA_l5GrRgs-pF8e6hkDFsYw69DbuJ6NXWB0HCMRF4',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.2',
+          accept: '*/*',
+          'postman-token': '08e449bd-bce6-4c20-9bd8-f60f4dc3da41',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '82'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/todo',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 40
+    }
+  }
+}
+{
+  message: 'GET: 200 32ms /todo',
+  level: 'info',
+  timestamp: '2021-08-06T07:21:05.722Z',
+  label: 'todo-ts',
+  metadata: {
+    meta: {
+      req: {
+        url: '/todo',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDEzLCJpYXQiOjE2Mjc2NDI0ODR9.opJA_l5GrRgs-pF8e6hkDFsYw69DbuJ6NXWB0HCMRF4',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.2',
+          accept: '*/*',
+          'postman-token': '51a551a4-d0fc-42fa-bbae-f06c9bf7270d',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '82'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/todo',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 32
+    }
+  }
+}
+{
+  message: 'GET: 200 34ms /todo',
+  level: 'info',
+  timestamp: '2021-08-06T07:24:45.734Z',
+  label: 'todo-ts',
+  metadata: {
+    meta: {
+      req: {
+        url: '/todo',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDEzLCJpYXQiOjE2Mjc2NDI0ODR9.opJA_l5GrRgs-pF8e6hkDFsYw69DbuJ6NXWB0HCMRF4',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.2',
+          accept: '*/*',
+          'postman-token': '3f9eadd5-3b79-411a-9111-3ee1d471cbf8',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '82'
+        },
+        method: 'GET',
+        httpVersion: '1.1',
+        originalUrl: '/todo',
+        query: {}
+      },
+      res: { statusCode: 200 },
+      responseTime: 34
+    }
+  }
+}
+{
+  message: 'POST: 500 8ms /todo',
+  level: 'info',
+  timestamp: '2021-08-06T07:25:24.148Z',
+  label: 'todo-ts',
+  metadata: {
+    meta: {
+      req: {
+        url: '/todo',
+        headers: {
+          authorization: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6OTk4OTM0ODIwMDEzLCJpYXQiOjE2Mjc2NDI0ODR9.opJA_l5GrRgs-pF8e6hkDFsYw69DbuJ6NXWB0HCMRF4',
+          'content-type': 'application/json',
+          'user-agent': 'PostmanRuntime/7.28.2',
+          accept: '*/*',
+          'postman-token': '3cb944fc-7417-4435-9e6e-deaf77f801d4',
+          host: 'localhost:3000',
+          'accept-encoding': 'gzip, deflate, br',
+          connection: 'keep-alive',
+          'content-length': '30'
+        },
+        method: 'POST',
+        httpVersion: '1.1',
+        originalUrl: '/todo',
+        query: {}
+      },
+      res: { statusCode: 500 },
+      responseTime: 8
+    }
+  }
+}
